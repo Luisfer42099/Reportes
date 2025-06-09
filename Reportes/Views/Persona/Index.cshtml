@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Reportes.Models.Persona>
+
+@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+<h2 class="h2">@ViewData["Title"]</h2>
+
+<table border="1" cellpadding="5" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido Paterno</th>
+            <th>Apellido Materno</th>
+            <th>Sexo</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Tipo Documento</th>
+            <th>N° Identificación</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr ondblclick="window.location='@Url.Action("Editar", "Persona", new { id = persona.Id })'">
+                <td>@persona.Id</td>
+                <td>@persona.Nombre</td>
+                <td>@persona.ApPaterno</td>
+                <td>@persona.ApMaterno</td>
+                <td>@persona.IIDSexo</td>
+                <td>@persona.Correo</td>
+                <td>@persona.TelefonoOCelular1</td>
+                <td>@persona.IIDTipoDocumento</td>
+                <td>@persona.NumeroIdentificacion</td>
+            </tr>
+        }
+    </tbody>
+</table>

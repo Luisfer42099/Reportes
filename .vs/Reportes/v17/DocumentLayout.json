@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Reportes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|c:\\users\\user\\source\\repos\\reportes\\reportes\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|solutionrelative:reportes\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|c:\\users\\user\\source\\repos\\reportes\\reportes\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|solutionrelative:reportes\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|c:\\users\\user\\source\\repos\\reportes\\reportes\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|solutionrelative:reportes\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|c:\\users\\user\\source\\repos\\reportes\\reportes\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A0F0609-FB1F-49CC-A719-4E5EC676AAB4}|Reportes\\Reportes.csproj|solutionrelative:reportes\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "Reportes\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "Reportes\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T22:50:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Reportes\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Models\\Persona.cs",
+              "RelativeToolTip": "Reportes\\Models\\Persona.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:49:54.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Reportes\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Reportes\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:49:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Reportes\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Reportes\\Reportes\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Reportes\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T22:43:54.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

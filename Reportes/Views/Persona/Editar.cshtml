@@ -1,0 +1,53 @@
+﻿@model Reportes.Models.Persona
+
+@{
+    ViewData["Title"] = "Editar Persona";
+}
+
+<h2 class="h2">@ViewData["Title"]</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form asp-action="Editar" method="post" class="form-control">
+
+                <input type="hidden" asp-for="Id" />
+
+                <div class="mb-3">
+                    <label>Nombre:</label>
+                    <input class="form-control" asp-for="Nombre" />
+                </div>
+                <div class="mb-3">
+                    <label>Apellido Paterno:</label>
+                    <input class="form-control" asp-for="ApPaterno" />
+                </div>
+                <div class="mb-3">
+                    <label>Apellido Materno:</label>
+                    <input class="form-control" asp-for="ApMaterno" />
+                </div>
+                <div class="mb-3">
+                    <label>Sexo:</label>
+                    <input class="form-control" asp-for="IIDSexo" />
+                </div>
+                <div class="mb-3">
+                    <label>Correo:</label>
+                    <input class="form-control" asp-for="Correo" />
+                </div>
+                <div class="mb-3">
+                    <label>Teléfono o Celular:</label>
+                    <input class="form-control" asp-for="TelefonoOCelular1" />
+                </div>
+                <div class="mb-3">
+                    <label>Tipo Documento:</label>
+                    <input class="form-control" asp-for="IIDTipoDocumento" />
+                </div>
+                <div class="mb-3">
+                    <label>Número Identificación:</label>
+                    <input class="form-control" asp-for="NumeroIdentificacion" />
+                </div>
+
+                <button class="btn btn-primary" type="submit">Guardar</button>
+            </form>
+        </div>
+    </div>
+</div>
